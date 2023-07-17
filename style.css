@@ -2532,3 +2532,27 @@ section {
   background: #ff6600;
   color: white;
 }
+
+
+/* LOGO TITLE DESCRIPTION */
+/* 
+.logo {
+  width: 100%;
+  height: 100px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.description {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  
+  .description {
+  display: none;
+}
+} */
