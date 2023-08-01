@@ -222,6 +222,28 @@ h6,
   background-color: #0563bb;
 }
 
+
+/* Ninja */
+#ninja {
+  width: 100%;
+  
+  overflow: hidden;
+  position: relative;
+ 
+  background-image: url("./assets/img/NinjaJourney/Background.png");
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -446,6 +468,24 @@ h6,
 @media (max-width: 575px) {
   #hero-no-slider h2 {
     font-size: 30px;
+  }
+
+  #ninja {
+    width: 100%;
+    
+    overflow: hidden;
+    position: relative;
+   
+    background-image: url("./assets/img/NinjaJourney/Background.png");
+  
+    /* Full height */
+    height: 25vh;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
   }
 }
 
