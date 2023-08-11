@@ -260,6 +260,25 @@ h6,
   
 }
 
+#Rfid {
+  width: 100%;
+  
+  overflow: hidden;
+  position: relative;
+ 
+  background-image: url("./assets/img/RFIDMONITORING/home.png");
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
 
 
 /*--------------------------------------------------------------
@@ -512,6 +531,24 @@ h6,
     position: relative;
    
     background-image: url("./assets/img/Pavs/websiteSS/home.png");
+  
+    /* Full height */
+    height: 25vh;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  #Rfid {
+    width: 100%;
+    
+    overflow: hidden;
+    position: relative;
+   
+    background-image: url("./assets/img/RFIDMONITORING/home.png");
   
     /* Full height */
     height: 25vh;
